@@ -69,3 +69,6 @@ c1.deposit(30)
 
 s1.withdraw(2000)
 c1.withdraw(40)
+
+
+s1.calculate_interest()
